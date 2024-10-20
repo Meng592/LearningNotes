@@ -1,0 +1,11 @@
+L 可逆：1
+P 可逆：1
+U 可逆：1
+x：
+    1.0000
+   -0.6667
+         0
+         0
+
+uiopen('C:\Users\haoda\Desktop\learning\研\数学老头\practice_exam2.m',1)
+practice_exam2
